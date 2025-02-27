@@ -1,0 +1,2 @@
+// Rule 00: Input Validation and Data Sanitization (IDS)
+// IDS03: Do not log unsanitized user input
